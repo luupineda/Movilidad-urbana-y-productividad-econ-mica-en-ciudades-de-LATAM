@@ -7,9 +7,7 @@ Entender cómo la movilidad urbana (niveles de congestión, tiempos de viaje, re
 ### Herramientas
 
 <aside>
-🛠
-
-**Python | Numpy | Matplotlib | Seaborn |Jupyter Notebook**
+🛠 **Python | Numpy | Matplotlib | Seaborn |Jupyter Notebook**
 
 </aside>
 
