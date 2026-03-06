@@ -1,3 +1,4 @@
+![Portada del proyecto](cover.png)
 ## Movilidad urbana y productividad económica en ciudades de LATAM | TripleTen Bootcamp (2026) Académico
 
 Entender cómo la movilidad urbana (niveles de congestión, tiempos de viaje, retrasos) se relaciona con la productividad económica (PIB per cápita, desempleo) en las principales ciudades latinoamericanas.
